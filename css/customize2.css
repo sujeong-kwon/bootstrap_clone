@@ -1,0 +1,60 @@
+.jumbotron {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0;
+  /* background-color: #fff; */
+  background: url('../img/subtop_product.jpg') no-repeat center top;
+  background-size: cover;
+  padding: 90px 0 160px;
+}
+
+.bg-light{
+  background-color: white!important;
+}
+
+.jumbotron p{
+  font-family: "Raleway", "Noto Sans KR", Sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.3pt;
+  text-indent: 0.15pt;
+  line-height: 110%;
+  color: #a8a8a9;
+  padding: 0 0 10px;
+  text-indent: 2px;
+  text-align: left;
+}
+
+.jumbotron h3{
+  font-size: 50px;
+  font-weight: 700;
+  color: #333333;
+  letter-spacing: -1.5pt;
+  line-height: 120%;
+  text-align: left;
+}
+
+.jumbotron .container {
+  max-width: 1280px;
+  padding-top: 100px;
+  padding-right: 15px;
+  padding-bottom: 0px;
+  padding-left: 15px;
+  margin: 0 auto;
+}
+
+.card-text{
+  text-align: center;
+}
+
+a{
+  color: #333;
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
